@@ -10,6 +10,6 @@ _Instructions:_
 
 For this project you should have IDE (WebStorm, VSC), Postman.
 
-1. Create folder for project 'node-rest-shop'.
-2. Download Node.js (LTS version) https://nodejs.org/en/
+1. Download Node.js (LTS version) https://nodejs.org/en/, if you don't have it.
+2. Clone the project to your local machine.
 3. Run 'npm i' in terminal window.
