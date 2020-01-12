@@ -12,4 +12,4 @@ For this project you should have IDE (WebStorm, VSC), Postman.
 
 1. Download Node.js (LTS version) https://nodejs.org/en/, if you don't have it.
 2. Clone the project to your local machine.
-3. Run 'npm i' in terminal window.
+3. Run **npm i** in terminal window.
